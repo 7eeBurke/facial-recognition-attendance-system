@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 ```sh
  git clone https://github.com/7eeBurke/facial-recognition-attendance-system.git
- cd FacRecSys
+ cd facial-recognition-attendance-system
 ```
 
 ### Backend Setup (Flask)
